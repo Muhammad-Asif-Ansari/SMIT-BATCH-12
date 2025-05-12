@@ -1,0 +1,24 @@
+.main{
+    background-color: rgb(228, 130, 11);
+    height: 100px;
+    width: 100px;
+}
+.test{
+    background-color: rgb(252, 193, 126);
+    height: 100px;
+    width: 100px;
+}
+table {
+    border-spacing: 0rem;
+    border: 5px solid black;
+  }
+  table td img{
+    width: 100px;
+    height: 100px;
+  }
+  h1{
+    color: rgb(17, 17, 18);
+    background: orange;
+    width: 45%;
+    margin-bottom: 2px;
+  }

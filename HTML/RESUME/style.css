@@ -1,0 +1,56 @@
+*{
+    background-color: rgb(170, 185, 127);
+}
+h3{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-style: normal;
+    font-weight: bold;
+    color: darkcyan;
+    white-space-collapse: preserve-spaces;
+}
+h4{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    color: rgb(91, 21, 211);
+
+}
+li{
+    flex-direction: row;
+    font-display: initial;
+    font: 500;
+    font-style: oblique;
+    color: rgb(49, 12, 218);
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    float: inline-start;
+    color: brown;
+}
+p{
+  font-size: medium;
+  color: rgb(191, 8, 148);
+  font-family: Arial, Helvetica, sans-serif;
+
+  
+}
+b{
+    color: red;
+}
+span a{
+    color: brown;
+}
+.one>li{
+    color: rgb(191, 8, 148);
+}
+.Two>li{
+    color:  rgb(191, 8, 148);
+}
+.three>li{
+    color:  rgb(191, 8, 148);
+}
+.four>li{
+    color:  rgb(191, 8, 148);
+}

@@ -1,0 +1,26 @@
+/* .car{
+    width: 400px;
+    height: 400px;
+    object-fit: contain;
+}
+
+.big-car{
+    width: 800px;
+    height: 800px;
+    object-fit: contain;
+}
+
+.zoomImage{
+    zoom: 1.5;
+} */
+ 
+.before{
+    width: 400px;
+    height: 400px;
+    object-fit: contain;
+}
+.last{
+    width: 400px;
+    height: 400px;
+    object-fit: contain;
+}

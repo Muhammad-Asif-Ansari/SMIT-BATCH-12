@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script type="module" src="app.js"></script>
+
+
+    <script type="module">
+        import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js/+esm'
+        const projectURl = "https://jjtwqigzgbntuuuzqqot.supabase.co";
+        const project_API_Key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpqdHdxaWd6Z2JudHV1dXpxcW90Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzY0OTAwMjEsImV4cCI6MjA1MjA2NjAyMX0.oiezr_OcUjAW9dT9RaUXo3FieAivAxoU-kpCADVo27k"
+        const supabaseConfig = createClient(projectURl, project_API_Key)
+      
+        console.log('Supabase Instance: ', supabaseConfig)
+        // ...
+      </script>
+</body>
+</html>

@@ -1,0 +1,104 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Rubik+Maps&family=Rubik+Vinyl&display=swap');
+*{
+    font-family: "Rubik Maps", system-ui;
+    font-weight: 400;
+    font-style: normal;
+} */
+.value1{
+    color: #553869; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: yellow;
+    font-size: 50px;   
+}
+.value2{
+    color: #126079;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(200, 64, 96);
+    font-size: 40px;
+}
+.value3{
+    color: rgba(208, 25, 165, 0.422);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: hsl(152, 46%, 55%);
+    font-size: 30px;
+}
+.value4{
+    color: #a69934;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(111, 45, 123);
+    font-size: 20px;
+}
+.value5{
+    color: hsla(342, 97%, 40%, 0.751);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+    color: chocolate !important;
+    color: turquoise;
+    color: rgb(156, 50, 71);
+    background-color: palegreen;
+}
+.value6{
+    color: #956599;
+    color: #5c1467 !important;
+    color: #990448;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 10px;
+    background-color: rgb(90, 124, 176);
+}
+p{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    color: rgb(112, 112, 216);
+}
+.basic{
+    color: rgb(230, 147, 58);
+    font-size: large;
+}
+.basic1{
+    color: rgb(195, 0, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+}
+p.basic2{
+    font-size: medium;
+    color: hsl(358, 93%, 49%);
+    font-family: initial;
+}
+.one,.flo{
+    color: #2599f2;
+}
+p>.view{
+    color: hsl(0, 93%, 46%);
+}
+#forever{
+    color: hsla(331, 84%, 48%, 0.747);
+}
+.wind{
+    color: rgba(188, 120, 11, 0.603);
+}
+.th sup{
+    color: #e90707;
+    font-weight: bold;
+}
+.blow+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: hsla(320, 95%, 51%, 0.626);
+}
+.blowing~p{
+    font-style: italic;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ba3838;
+    background-color: #4171ca;
+}
+#fox{
+    color: fuchsia;
+    background-color: #0ce2c2;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+}
+.content{
+    background-color: hsl(149, 95%, 36%);
+    color: #1f07d7;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
